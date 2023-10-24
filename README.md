@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Santiago Castillo</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h1 align="center">Hola 👋, Soy Santiago Castillo</h1>
+<h3 align="center">Un apasionado desarrollador Full Stack de Argentina.</h3>
 
-- 🌱 About me **Me interese por la tecnología desde pequeño y gran parte de mi tiempo estuvo enfocado a eso. Gracias a ese gran interés, decidí estudiar sobre la electrónica y tiempo después el desarrollo web. A día de hoy me encuentro en busca de oportunidades emocionantes como desarrollador web full stack. Con una pasión por la creación y la resolución de desafíos técnicos, estoy comprometido a llevar la innovación y la excelencia a cada proyecto. Mi experiencia en el desarrollo de aplicaciones web y sitios dinámicos me ha preparado para enfrentar diversos desafíos en el mundo digital. Estoy ansioso por unirme a un equipo comprometido con la calidad y la creatividad, y contribuir con mis habilidades para impulsar el éxito de proyectos digitales. Si estás buscando a alguien apasionado, creativo y altamente competente en el desarrollo web full stack.**
+<h3 align="center">🌱 Acerca de mi: </h3> 
+<p>  
+Me interese por la tecnología desde pequeño y gran parte de mi tiempo estuvo enfocado a eso. Gracias a ese gran interés, decidí estudiar sobre la electrónica y tiempo después el desarrollo web. A día de hoy me encuentro en busca de oportunidades emocionantes como desarrollador web full stack. Con una pasión por la creación y la resolución de desafíos técnicos, estoy comprometido a llevar la innovación y la excelencia a cada proyecto. Mi experiencia en el desarrollo de aplicaciones web y sitios dinámicos me ha preparado para enfrentar diversos desafíos en el mundo digital. Estoy ansioso por unirme a un equipo comprometido con la calidad y la creatividad, y contribuir con mis habilidades para impulsar el éxito de proyectos digitales. Si estás buscando a alguien apasionado, creativo y altamente competente en el desarrollo web full stack.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
