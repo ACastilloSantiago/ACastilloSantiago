@@ -3,9 +3,9 @@
 
 <h3 align="left">🌱 Acerca de mi: </h3> 
 <p> 
-Me interese por la tecnología desde pequeño y gran parte de mi tiempo libre estuvo enfocado a eso. Gracias a ese gran afan, decidí estudiar sobre la electrónica y tiempo después el desarrollo web.⚡
+Me interese por la tecnología desde pequeño y gran parte de mi tiempo libre estuvo enfocado a eso. Gracias a ese gran afán, decidí estudiar sobre la electrónica y tiempo después el desarrollo web.⚡
 
-Hoy en día terminado el bootcamp de SoyHenry, me encuentro en busca de oportunidades emocionantes como desarrollador web full stack . 🖥️
+Hoy en día terminado el bootcamp de Soy Henry, me encuentro en busca de oportunidades emocionantes como desarrollador web full stack . 🖥️
 
 Con una pasión por la creación y la resolución de desafíos técnicos, estoy comprometido a llevar la innovación y la excelencia a cada proyecto. Mi experiencia en el desarrollo de aplicaciones web y sitios dinámicos me ha preparado para enfrentar diversos desafíos en el mundo digital. 
 
