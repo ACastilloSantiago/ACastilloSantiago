@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Santiago Castillo</h1>
-<h3 align="center">Desarrollador Web Full Stack de Argentina</h3>
+<h3 align="center">Desarrollador Web Front-End de Argentina</h3>
 
 ---
 
