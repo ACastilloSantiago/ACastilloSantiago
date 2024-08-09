@@ -1,43 +1,107 @@
 <h1 align="center">Hola 👋, Soy Santiago Castillo</h1>
-<h3 align="center">Un apasionado desarrollador Full Stack de Argentina.</h3>
+<h3 align="center">Desarrollador Web Full Stack de Argentina</h3>
 
-<h3 align="left">🌱 Acerca de mi: </h3> 
-<p> 
-Me interese por la tecnología desde pequeño y gran parte de mi tiempo libre estuvo enfocado a eso. Gracias a ese gran afán, decidí estudiar sobre la electrónica y tiempo después el desarrollo web.⚡
+---
 
-Hoy en día terminado el bootcamp de Soy Henry, me encuentro en busca de oportunidades emocionantes como desarrollador web full stack . 🖥️
+<h3 align="left">🌱 Acerca de mí:</h3>
+<p>
+Soy un desarrollador web con experiencia en Back-end y Front-end, apasionado por crear soluciones tecnológicas innovadoras y centradas en el usuario. Me encanta trabajar en equipo, resolver desafíos técnicos y siempre estoy buscando formas de mejorar la experiencia del usuario. Actualmente, estoy en la búsqueda de nuevas oportunidades como desarrollador web Front-end donde pueda aplicar mis habilidades y contribuir a proyectos dinámicos y desafiantes.
+</p>
 
-Con una pasión por la creación y la resolución de desafíos técnicos, estoy comprometido a llevar la innovación y la excelencia a cada proyecto. Mi experiencia en el desarrollo de aplicaciones web y sitios dinámicos me ha preparado para enfrentar diversos desafíos en el mundo digital. 
+---
 
-Estoy ansioso por unirme a un equipo comprometido con la calidad y la creatividad, y contribuir con mis habilidades para impulsar el éxito de proyectos digitales.🚀
- </p>
- <h3 align="left">👨‍💻 Experiencia: </h3> 
- <h4>
-   Startup Monti:
- </h4>
-<p> 
-  Seleccionado como Frontend developer, para el maquetado y diseño de páginas, integración y conexión con el Backend y estructuración del proyecto, lo cual me permitió desarrollar habilidades útiles como adaptabilidad, resolución de conflictos, trabajo en equipo y gestión del tiempo.
-   </p>
- <h5>
-Tecnologias utilizadas: 
- </h5>
-  <p>
-    -Next.js    
-    <br>
-    -Chakra UI
-    <br>
-    -Redux
-    <br>
-    -React
-    <br>
-    -Node.js
- 
- </p>
+<h3 align="left">👨‍💻 Experiencia Profesional:</h3>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<h4>Monti | Perú - Home Office desde Argentina | Septiembre 2023 - Octubre 2023</h4>
+<ul>
+  <li><strong>Integración API:</strong> Conecté eficientemente el frontend con APIs backend.</li>
+  <li><strong>Diseño UI/UX:</strong> Desarrollé interfaces visualmente atractivas y accesibles.</li>
+  <li><strong>Landing Pages y Dashboards:</strong> Desarrollé landing pages y dashboards optimizados.</li>
+  <li><strong>Componentes Reutilizables:</strong> Creé componentes reutilizables en React.</li>
+</ul>
+<p><strong>Tecnologías:</strong> JavaScript, React, HTML, CSS, Next.js, Chakra UI, Git, VSCode, Jira, Postman, Github, Figma, Slack, Scrum.</p>
 
-<h3 align="left">Conecta conmigo: </h3>
+---
+
+<h3 align="left">🚀 Proyectos:</h3>
+
+<h4>Calendario Web | Julio 2024 - Agosto 2024</h4>
+<p>Plataforma de calendario en línea para la gestión de eventos y notificaciones en tiempo real.</p>
+<ul>
+  <li><strong>Desarrollo UI:</strong> Implementé la interfaz con React y Bootstrap para una experiencia de usuario fluida.</li>
+  <li><strong>Gestión de Estado:</strong> Utilicé Redux Toolkit para manejar el estado global de la aplicación.</li>
+  <li><strong>API Backend:</strong> Desarrollé la API RESTful con Node.js y Express.js, conectando el frontend con MongoDB.</li>
+  <li><strong>Pruebas:</strong> Realicé pruebas unitarias con Jest para asegurar la calidad del código.</li>
+</ul>
+<p><strong>Tecnologías:</strong> JavaScript, React, HTML, CSS, Bootstrap, Redux Toolkit, Postman, Github, Figma, MongoDB, Jest, Express.js, Git, Node.js y VSCode.</p>
+
+<h4>Mi Diario | Mayo 2024 - Julio 2024</h4>
+<p>Aplicación web para escribir y gestionar entradas de diario con soporte para imágenes.</p>
+<ul>
+  <li><strong>Desarrollo UI:</strong> Diseñé la interfaz utilizando React y Material UI para una experiencia intuitiva.</li>
+  <li><strong>Gestión de Imágenes:</strong> Integré Cloudinary para la subida y almacenamiento de imágenes.</li>
+  <li><strong>Autenticación:</strong> Configuré la autenticación de usuarios con Firebase para garantizar la seguridad.</li>
+  <li><strong>Pruebas:</strong> Aseguré la estabilidad con pruebas de Jest.</li>
+</ul>
+<p><strong>Tecnologías:</strong> JavaScript, React, HTML, CSS Modules, Material UI, Redux Toolkit, Postman, Github, Figma, Cloudinary, Jest, Firebase, Git y VSCode.</p>
+
+<h4>Doggyklopedia | Agosto 2023 - Septiembre 2023</h4>
+<p>Enciclopedia digital sobre razas y cuidados caninos.</p>
+<ul>
+  <li><strong>Base de Datos:</strong> Diseñé y gestioné la base de datos con PostgreSQL y Sequelize.</li>
+  <li><strong>Desarrollo Backend:</strong> Implementé la API RESTful con Node.js y Express.js.</li>
+  <li><strong>Desarrollo UI:</strong> Construí la interfaz con React y CSS Modules.</li>
+  <li><strong>Motor de Búsqueda:</strong> Desarrollé un buscador avanzado para filtrar información de razas.</li>
+</ul>
+<p><strong>Tecnologías:</strong> JavaScript, React, HTML, CSS Modules, Node.js, Redux, Postman, Github, Figma, Express.js, PostgreSQL, Sequelize, Git y VSCode.</p>
+
+<h4>Rick and Morty | Julio 2024 - Agosto 2024</h4>
+<p>Aplicación web para explorar personajes y episodios de "Rick and Morty" mediante una API pública.</p>
+<ul>
+  <li><strong>Integración API:</strong> Conecté la aplicación con la API pública de "Rick and Morty".</li>
+  <li><strong>Desarrollo UI:</strong> Implementé la interfaz con React y CSS Modules.</li>
+  <li><strong>Gestión de Estado:</strong> Manejo eficiente del estado con Redux.</li>
+  <li><strong>Optimización:</strong> Mejoré el rendimiento con técnicas como lazy loading.</li>
+</ul>
+<p><strong>Tecnologías:</strong> JavaScript, React, HTML, CSS Modules, Node.js, Redux, Postman, Github, Figma, Express.js, PostgreSQL, Sequelize, Git y VSCode.</p>
+
+---
+
+<h3 align="left">🛠️ Tecnologías y Herramientas:</h3>
+<p align="left">
+  <strong>Lenguajes de Programación:</strong> JavaScript.
+  <br>
+  <strong>Frameworks y Librerías:</strong> Node.js, React, Redux, Redux Toolkit, Vite, HTML, CSS, Next.js, Jest, Chakra UI, Material UI, Bootstrap y Tailwind CSS.
+  <br>
+  <strong>Bases de Datos:</strong> Sequelize, PostgreSQL, Firebase y Express.
+  <br>
+  <strong>Herramientas:</strong> Git, VSCode, Jira, Cloudinary, Postman, Github, Figma y Slack.
+  <br>
+  <strong>Metodologías Ágiles:</strong> Scrum.
+</p>
+
+---
+
+<h3 align="left">🗣️ Idiomas:</h3>
+<p>
+  <strong>Español:</strong> Nativo.
+  <br>
+  <strong>Inglés:</strong> A2 - Básico.
+</p>
+
+---
+
+<h3 align="left">🎓 Educación:</h3>
+<ul>
+  <li><strong>Full Stack Web Developer:</strong> Henry Bootcamp, 2023.</li>
+  <li><strong>Tecnicatura en Electrónica:</strong> Escuela de Educación Técnica N°1, 2018 - 2021.</li>
+  <li><strong>Desarrollo Web 1:</strong> Aprende Programando, 2021.</li>
+</ul>
+
+---
+
+<h3 align="left">🌐 Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/santiago-castillo-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-castillo-dev" height="30" width="40" /></a>
 </p>
+
